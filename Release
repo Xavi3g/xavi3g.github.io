@@ -1,8 +1,8 @@
-Origin: xavi3g.github.io
-Label: xavi3g
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
-Codename: xavi3g
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: xavi3g con los mejores tweak
+Description: Reposi3 - a cydia repo template
