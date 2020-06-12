@@ -26,3 +26,20 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: xavi3g.rpetrich.powercuff
+Version: 0.1
+Section: Tweaks
+Maintainer: xavi3g <jagr26@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: ./debs/xavi3g.rpetrich.powercuff.deb
+Size: 14110
+MD5sum: 20676903d560ec8858c3519fb8068b4c
+Description: Select from additional low power device states
+Name: Powercuff
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=xavi3g.rpetrich.powercuff
+Sponsor: xavi3g <http://xavi3g.github.io>
+dev: rpetrich
+Tag: purpose::extension
+

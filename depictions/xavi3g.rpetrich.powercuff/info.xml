@@ -1,0 +1,24 @@
+<package>
+	<id>xavi3g.rpetrich.powercuff</id>
+	<name>Powercuff</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOSiOS>
+			<!--<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)</dependencies>
+	<descriptionlist>
+		<description>Exposes access to hidden power throttling modes for better battery life</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	<version>0.1</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
