@@ -5,8 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOSiOS>
-			<!--<otherVersions>unsupported</otherVersions>
-			<!--
+				<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
