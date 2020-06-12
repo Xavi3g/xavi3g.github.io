@@ -1,14 +1,10 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
+	<id>xavi3g.rpetrich.powercuff</id>
 	<name>Powercuff</name>
 	<version>0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
