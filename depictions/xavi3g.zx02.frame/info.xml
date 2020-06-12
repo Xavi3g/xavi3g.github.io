@@ -1,6 +1,6 @@
 <package>
 	<id>xavi3g.zx02.frame</id>
-	<name><Frame></Frame></name>
+	<name>Frame</name>
 	<version>2.0.0-beta2</version>
 	<compatibility>
 		<firmware>
