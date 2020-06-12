@@ -10,13 +10,12 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies>mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)</dependencies>
+	<dependencies>mobilesubstrate, preferenceloader</dependencies>
 	<descriptionlist>
 		<description>Exposes access to hidden power throttling modes for better battery life</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-	<version>0.1</version>
 		<change>Initial release</change>
 	</changelog>
 	<links></links>
